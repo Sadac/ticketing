@@ -1,0 +1,2 @@
+# Ticketing model scaffold
+
