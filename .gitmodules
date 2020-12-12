@@ -1,3 +1,7 @@
 [submodule "ticketing-auth"]
 	path = ticketing-auth
 	url = https://github.com/Sadac/ticketing-auth.git
+
+[submodule "ticketing-infra"]
+	path = ticketing-infra
+	url = https://github.com/Sadac/ticketing-infra.git
